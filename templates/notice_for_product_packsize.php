@@ -1,0 +1,2 @@
+<p id="restrict_pack_size_notice<?php echo isset( $loop ) ? $loop : ''; ?>" class="form-field <?php echo $variable_class; ?>"><?php _e( 'The product is included in an active order. Changing pack size will also affect all active orders with this product included in it.', 'order-and-inventory-manager-for-woocommerce' ); ?>
+</p>

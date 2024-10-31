@@ -1,0 +1,1 @@
+woocommerce-inventory-management-premium

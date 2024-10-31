@@ -1,0 +1,2078 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-10-28 10:33+0000\n"
+"PO-Revision-Date: 2021-10-28 10:33+0000\n"
+"Last-Translator: \n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.4; wp-5.8.1"
+
+#: classes/class.im_main.php:3766
+msgid " Issue: Contain a product that is out of stock and discontinued."
+msgstr ""
+
+#: classes/class.product_stock.php:146 templates/display_product_stock.php:43
+#, php-format
+msgid "%s - WooCommerce stock: %d → %d. Order #%d was cancelled by %s."
+msgstr ""
+
+#: classes/class.product_stock.php:155 templates/display_product_stock.php:52
+#, php-format
+msgid "%s - WooCommerce stock: %d → %d. Order #%d was refunded by %s."
+msgstr ""
+
+#: classes/class.product_stock.php:140 templates/display_product_stock.php:37
+#, php-format
+msgid ""
+"%s - WooCommerce stock: %d → %d. The product was added to the order: #%d by "
+"%s."
+msgstr ""
+
+#: classes/class.im_main.php:82
+msgid "(Upgrade OIMWC to at least Gold to unlock this feature)"
+msgstr ""
+
+#: classes/class.im_main.php:78
+msgid "(Upgrade OIMWC to at least Silver to unlock this feature)"
+msgstr ""
+
+#: classes/class.im_main.php:86
+msgid "(Upgrade OIMWC to platinum to unlock this feature)"
+msgstr ""
+
+#: templates/email_content.php:31
+#, php-format
+msgid "<p>New inquiry for <strong>%s</strong> from <strong>%s</strong>.</p>"
+msgstr ""
+
+#: classes/class.im_main.php:3512
+#, php-format
+msgid ""
+"A product (<strong>SKU: %s </strong>) with negative physical stock qty was "
+"detected."
+msgstr ""
+
+#: templates/oimwc_settings.php:713
+msgid "Access Role"
+msgstr ""
+
+#: classes/class.im_main.php:682
+msgid "Account"
+msgstr ""
+
+#: templates/navigation.php:28
+msgid "Active Purchase Orders"
+msgstr ""
+
+#: templates/inventory_management.php:145 templates/variable_supplier.php:202
+#: templates/product_supplier.php:220
+msgid "Add"
+msgstr ""
+
+#: classes/class.im_main.php:1142
+msgid "Add additional information to order (optional)"
+msgstr ""
+
+#: classes/class.im_main.php:1162 templates/oimwc_settings.php:276
+#: templates/oimwc_settings.php:335
+msgid "Add Address Name"
+msgstr ""
+
+#: classes/class.im_main.php:925 classes/class.im_main.php:926
+msgid "Add new supplier"
+msgstr ""
+
+#: templates/oimwc_settings.php:519
+msgid "Add new unit"
+msgstr ""
+
+#: templates/oimwc_settings.php:112
+msgid "Add Office Address"
+msgstr ""
+
+#: classes/class.im_main.php:1190 templates/oimwc_settings.php:124
+#: templates/oimwc_settings.php:194
+msgid "Add Office Address Name"
+msgstr ""
+
+#: templates/oimwc_settings.php:264
+msgid "Add Shipping Address"
+msgstr ""
+
+#: templates/variable_supplier.php:69 templates/product_supplier.php:105
+msgid ""
+"Add this product to the \"Products with low stock\"-page if the low stock "
+"threshold has been reached."
+msgstr ""
+
+#: templates/inventory_management.php:138
+msgid "Add to List"
+msgstr ""
+
+#: js-templates/lowstock_supplier_filter_tmpl.php:71
+#: js-templates/add_product_existing_PO_tmpl.php:19
+#: classes/class.data_low_stock.php:470 classes/class.order.php:805
+#: classes/class.data_purchase_order.php:420
+#: templates/inventory_management.php:185 templates/view_purchase_order.php:59
+msgid "Add to order"
+msgstr ""
+
+#: templates/oimwc_settings.php:759
+msgid "Add User"
+msgstr ""
+
+#: classes/class.im_main.php:2285
+msgid "Added to list"
+msgstr ""
+
+#: classes/class.im_main.php:1489 templates/info_modal.php:12
+#: templates/order_files_list.php:234
+msgid "Additional Information in PO"
+msgstr ""
+
+#: classes/class.im_main.php:1150 templates/metabox_supplier.php:20
+msgid "Address"
+msgstr ""
+
+#: classes/class.im_main.php:1153 templates/oimwc_settings.php:133
+#: templates/oimwc_settings.php:203 templates/oimwc_settings.php:289
+#: templates/oimwc_settings.php:348
+msgid "Address line 1"
+msgstr ""
+
+#: classes/class.im_main.php:1154 templates/oimwc_settings.php:137
+#: templates/oimwc_settings.php:207 templates/oimwc_settings.php:293
+#: templates/oimwc_settings.php:352
+msgid "Address line 2"
+msgstr ""
+
+#: templates/oimwc_settings.php:665
+msgid "Adds a search bar in the top admin bar"
+msgstr ""
+
+#: templates/oimwc_settings.php:42
+msgid "Admin Search Bar"
+msgstr ""
+
+#: classes/class.im_main.php:826
+msgid "All in stock"
+msgstr ""
+
+#: templates/shop_order_filter.php:3
+msgid "All order stock statuses"
+msgstr ""
+
+#: templates/order_overview_filter.php:4
+msgid "All Orders"
+msgstr ""
+
+#: classes/class.im_main.php:1228 classes/class.im_main.php:2701
+msgid "All products are in the physical stock but are locked to another order."
+msgstr ""
+
+#: templates/inventory_management.php:95
+#: templates/supplier_product_filter.php:3 templates/order_files_list.php:28
+msgid "All Suppliers"
+msgstr ""
+
+#: classes/class.im_main.php:1143
+msgid "Are you sure you want to cancel the order?"
+msgstr ""
+
+#: classes/class.im_main.php:1161
+msgid "Are you sure you want to delete this address?"
+msgstr ""
+
+#: classes/class.im_main.php:1140
+msgid "Are you sure you want to finalize the product?"
+msgstr ""
+
+#: classes/class.im_main.php:1145
+msgid "Are you sure you want to remove selected user?"
+msgstr ""
+
+#: classes/class.im_main.php:1144
+msgid "Are you sure you want to remove this product from order?"
+msgstr ""
+
+#: js-templates/awaiting_delivery_tbl_tmpl.php:53
+#: js-templates/view_po_tmpl.php:50 classes/class.data_delivery_table.php:257
+#: classes/class.data_delivery_table.php:351
+#: classes/class.view_order_product_list.php:219
+#: classes/class.view_order_product_list.php:329
+#: classes/class.view_order_product_list.php:369
+#: templates/order_files_list.php:84
+msgid "Arrived"
+msgstr ""
+
+#: templates/info_modal.php:171
+msgid "Attached file"
+msgstr ""
+
+#: classes/class.order.php:1206 classes/class.order.php:1303
+#: classes/class.order.php:2245 classes/class.order.php:2320
+#: templates/info_modal.php:130 templates/download_po_pdf.php:155
+#: templates/download_po_pdf.php:187
+msgid "Attn"
+msgstr ""
+
+#: classes/class.im_main.php:1189
+msgid "Back"
+msgstr ""
+
+#: templates/oimwc_settings.php:37 templates/oimwc_settings.php:108
+msgid "Business Information"
+msgstr ""
+
+#: js-templates/add_product_existing_PO_tmpl.php:20
+#: classes/class.im_main.php:1127 templates/inventory_management.php:186
+#: templates/order_files_list.php:264
+msgid "Cancel"
+msgstr ""
+
+#: classes/class.im_main.php:1493 templates/order_files_list.php:264
+msgid "Cancel Order"
+msgstr ""
+
+#: templates/oimwc_settings.php:452 templates/oimwc_settings.php:453
+msgid "Choose a currency&hellip;"
+msgstr ""
+
+#: templates/oimwc_settings.php:670
+msgid "Choose enabled post types in the search bar"
+msgstr ""
+
+#: templates/info_modal.php:28
+msgid "Choose information which will be included in the PO file:"
+msgstr ""
+
+#: templates/info_modal.php:47
+msgid "Choose language in which PO file should be in:"
+msgstr ""
+
+#: templates/oimwc_settings.php:747
+msgid ""
+"Choose what user roles should have access to this plugin. Administrator "
+"always have the access by default."
+msgstr ""
+
+#: classes/class.im_main.php:1155 templates/oimwc_settings.php:141
+#: templates/oimwc_settings.php:211 templates/oimwc_settings.php:297
+#: templates/oimwc_settings.php:356
+msgid "City"
+msgstr ""
+
+#: classes/class.im_main.php:1198
+msgid "Close"
+msgstr ""
+
+#: classes/class.im_main.php:1191 templates/oimwc_settings.php:129
+#: templates/oimwc_settings.php:199
+msgid "Company Name"
+msgstr ""
+
+#: classes/class.order.php:512 classes/class.im_main.php:3450
+msgid "Completed"
+msgstr ""
+
+#: templates/navigation.php:29
+msgid "Completed Purchase Orders"
+msgstr ""
+
+#: classes/class.im_main.php:1152 templates/oimwc_settings.php:285
+#: templates/oimwc_settings.php:344 templates/metabox_supplier.php:126
+msgid "Contact person"
+msgstr ""
+
+#: classes/class.im_main.php:1158 templates/oimwc_settings.php:153
+#: templates/oimwc_settings.php:223 templates/oimwc_settings.php:309
+#: templates/oimwc_settings.php:368 templates/metabox_supplier.php:28
+msgid "Country"
+msgstr ""
+
+#: templates/inventory_management.php:157
+msgid "Create Purchase Order"
+msgstr ""
+
+#: templates/order_files_list.php:67
+msgid "Created"
+msgstr ""
+
+#: templates/metabox_supplier.php:60
+msgid "Currency"
+msgstr ""
+
+#: classes/class.data_stock.php:225
+msgid "Current value"
+msgstr ""
+
+#: classes/class.im_main.php:1000
+msgid "Custom Name"
+msgstr ""
+
+#: templates/metabox_supplier.php:12
+msgid "Custom name"
+msgstr ""
+
+#: templates/oimwc_settings.php:630
+msgid "Custom Order Statuses that reduce physical stock"
+msgstr ""
+
+#: templates/oimwc_settings.php:599
+msgid "Custom Order Statuses that reserve products"
+msgstr ""
+
+#: classes/class.product_stock.php:134 templates/display_product_stock.php:31
+msgid "Customer"
+msgstr ""
+
+#: classes/class.order_status_list.php:311 classes/class.data_stock.php:59
+msgid "Date"
+msgstr ""
+
+#: templates/oimwc_settings.php:495
+msgid "Default product unit type"
+msgstr ""
+
+#: templates/oimwc_settings.php:84
+msgid "Default reply-to Email Address"
+msgstr ""
+
+#: templates/oimwc_settings.php:450
+msgid "Default supplier currency"
+msgstr ""
+
+#: classes/class.im_main.php:1131 templates/oimwc_settings.php:549
+msgid "Delete"
+msgstr ""
+
+#: classes/class.im_main.php:1160 templates/oimwc_settings.php:125
+#: templates/oimwc_settings.php:195 templates/oimwc_settings.php:277
+#: templates/oimwc_settings.php:336
+msgid "Delete Address"
+msgstr ""
+
+#: classes/class.im_main.php:1132
+msgid ""
+"Deleting a unit will set all products using this unit to the default unit, "
+"are you sure you want to delete this unit?"
+msgstr ""
+
+#: classes/class.order.php:1273 classes/class.order.php:2285
+#: templates/download_po_pdf.php:168
+msgid "DELIVERY ADDRESS"
+msgstr ""
+
+#: classes/class.order.php:1317 classes/class.order.php:2330
+#: templates/download_po_pdf.php:194
+msgid "DELIVERY DATE"
+msgstr ""
+
+#: templates/info_modal.php:115
+msgid "Delivery Date"
+msgstr ""
+
+#: templates/supplier_email.php:7
+msgid ""
+"Delivery due date, address and instructions are included in the purchase "
+"order."
+msgstr ""
+
+#: templates/metabox_supplier.php:78
+msgid "Description of supplier"
+msgstr ""
+
+#: templates/oimwc_settings.php:480
+msgid ""
+"Disable OIMWC GTIN fields if another enabled plugin manages it (recommended)"
+msgstr ""
+
+#: templates/oimwc_settings.php:486
+msgid ""
+"Disabling OIMWC GTIN function will hide all its GTIN related "
+"information/input fields on both in admin and on product pages."
+msgstr ""
+
+#: classes/class.im_main.php:3171
+msgid "Discontinued"
+msgstr ""
+
+#: classes/class.supplier.php:485 templates/variable_supplier.php:76
+#: templates/product_supplier.php:64
+msgid "Discontinued Product"
+msgstr ""
+
+#: templates/variable_supplier.php:86 templates/product_supplier.php:73
+msgid "Discontinued Replacement Product"
+msgstr ""
+
+#: templates/product_supplier.php:185
+msgid "Display pack size on product page"
+msgstr ""
+
+#: templates/oimwc_settings.php:659
+msgid "Display search bar"
+msgstr ""
+
+#: classes/class.order.php:895
+#, php-format
+msgid "Do you want to add %d qty of %s ?"
+msgstr ""
+
+#: templates/info_modal.php:108
+msgid "DOC"
+msgstr ""
+
+#: templates/display_product_stock.php:5
+msgid "Download log history"
+msgstr ""
+
+#: classes/class.im_main.php:1491
+msgid "Download PO-file"
+msgstr ""
+
+#: classes/class.im_main.php:1148
+msgid "Download Purchase Order"
+msgstr ""
+
+#: classes/class.im_main.php:928
+msgid "Edit supplier"
+msgstr ""
+
+#: classes/class.order.php:1190 classes/class.order.php:1260
+#: classes/class.order.php:2212 classes/class.order.php:2279
+#: templates/download_po_pdf.php:151 templates/download_po_pdf.php:177
+msgid "Email"
+msgstr ""
+
+#: classes/class.im_main.php:1194 templates/oimwc_settings.php:179
+#: templates/oimwc_settings.php:248
+msgid "Email Address"
+msgstr ""
+
+#: templates/metabox_supplier.php:94
+msgid "Email address for ordering"
+msgstr ""
+
+#: templates/oimwc_settings.php:98
+msgid "Email Default Message"
+msgstr ""
+
+#: templates/oimwc_settings.php:91
+msgid "Email Default Subject"
+msgstr ""
+
+#: classes/class.im_main.php:1188
+msgid "Email to the Supplier"
+msgstr ""
+
+#: templates/oimwc_settings.php:588
+msgid "Enable order status feature"
+msgstr ""
+
+#: templates/variable_supplier.php:66 templates/product_supplier.php:101
+msgid "Enable warning for low stock"
+msgstr ""
+
+#: classes/class.supplier.php:73
+msgid "Enter full company name"
+msgstr ""
+
+#: classes/class.data_purchase_order.php:549 classes/class.im_main.php:1200
+#: templates/inventory_management.php:211
+msgid ""
+"Enter the amount you wish to order and press the \"Update PO preview\" "
+"button to move the product to this section."
+msgstr ""
+
+#: templates/variable_supplier.php:223 templates/variable_supplier.php:319
+#: templates/product_supplier.php:240 templates/product_supplier.php:328
+msgid "Enter the product ID the supplier used for this product."
+msgstr ""
+
+#: templates/variable_supplier.php:131 templates/product_supplier.php:116
+msgid "Enter value for when this product is considered to be low in stock."
+msgstr ""
+
+#: classes/class.im_main.php:1492 templates/order_files_list.php:263
+msgid "Estimated Arrival Date"
+msgstr ""
+
+#: classes/class.im_main.php:1763 classes/class.im_main.php:3634
+msgid "Estimated in stock"
+msgstr ""
+
+#: classes/class.im_main.php:1759 classes/class.im_main.php:3611
+msgid "Estimated stock replenishment"
+msgstr ""
+
+#: js-templates/awaiting_delivery_tbl_tmpl.php:47
+#: js-templates/view_po_tmpl.php:43 classes/class.data_delivery_table.php:429
+#: classes/class.view_order_product_list.php:385
+#: templates/order_files_list.php:263
+msgid "ETA"
+msgstr ""
+
+#: classes/class.im_main.php:1129 templates/oimwc_settings.php:543
+msgid "Ex. meter"
+msgstr ""
+
+#: classes/class.im_main.php:1130 templates/oimwc_settings.php:546
+msgid "Ex. meters"
+msgstr ""
+
+#: classes/class.order.php:1194 classes/class.order.php:2220
+#: classes/class.im_main.php:1195 templates/oimwc_settings.php:171
+#: templates/oimwc_settings.php:240 templates/download_po_pdf.php:152
+msgid "Fax Number"
+msgstr ""
+
+#: templates/info_modal.php:103
+msgid "File Type"
+msgstr ""
+
+#: templates/inventory_management.php:107 templates/stock_values.php:42
+msgid "Filter"
+msgstr ""
+
+#: js-templates/awaiting_delivery_tbl_tmpl.php:55
+#: js-templates/view_po_tmpl.php:52 classes/class.data_delivery_table.php:353
+#: classes/class.view_order_product_list.php:331
+msgid "Finalize"
+msgstr ""
+
+#: classes/class.order.php:2721 classes/class.order.php:2722
+#: classes/class.data_delivery_table.php:252
+#: classes/class.view_order_product_list.php:214
+#: classes/class.view_order_product_list.php:364
+msgid "Finalized"
+msgstr ""
+
+#: templates/product_supplier.php:197
+msgid "Flag all variants as discontinued products"
+msgstr ""
+
+#: templates/info_modal.php:149
+msgid "From"
+msgstr ""
+
+#: classes/class.order.php:496 classes/class.data_delivery_table.php:255
+#: classes/class.view_order_product_list.php:217
+#: classes/class.view_order_product_list.php:367
+msgid "Fully Arrived"
+msgstr ""
+
+#: js-templates/awaiting_delivery_tbl_tmpl.php:54
+#: js-templates/view_po_tmpl.php:51 classes/class.data_delivery_table.php:352
+#: classes/class.view_order_product_list.php:330
+msgid "Fully arrived"
+msgstr ""
+
+#: templates/metabox_supplier.php:86
+msgid "General email address"
+msgstr ""
+
+#: classes/class.im_main.php:1488 templates/order_files_list.php:228
+msgid "Go to order"
+msgstr ""
+
+#: templates/oimwc_settings.php:754
+msgid "Grant Access User Wise"
+msgstr ""
+
+#: templates/oimwc_settings.php:760
+msgid "Granted Users"
+msgstr ""
+
+#: classes/class.im_main.php:2027 classes/class.im_main.php:2031
+msgid "GTIN"
+msgstr ""
+
+#: templates/variable_supplier.php:173 templates/product_supplier.php:89
+msgid "GTIN Number"
+msgstr ""
+
+#: templates/variable_supplier.php:178 templates/product_supplier.php:94
+msgid ""
+"GTIN-12 (UPC), GTIN-13 (EAN-13), GTIN-14 (EAN/UCC-128 or ITF-14), and GTIN-8 "
+"(EAN-8)"
+msgstr ""
+
+#: templates/oimwc_settings.php:70
+msgid "Header Background Color"
+msgstr ""
+
+#: templates/oimwc_settings.php:53
+msgid "Header Logo"
+msgstr ""
+
+#: templates/oimwc_settings.php:77
+msgid "Header Text Color"
+msgstr ""
+
+#: classes/class.im_main.php:621 classes/class.im_main.php:622
+#: templates/help.php:9
+msgid "Help"
+msgstr ""
+
+#: templates/supplier_email.php:5
+#, php-format
+msgid "Here's purchase order PO-%s for %s."
+msgstr ""
+
+#: templates/supplier_email.php:3
+#, php-format
+msgid "Hi %s"
+msgstr ""
+
+#: templates/product_supplier.php:186
+msgid "Hide"
+msgstr ""
+
+#: templates/oimwc_settings.php:425
+msgid "Hide 1-pack size information"
+msgstr ""
+
+#: templates/metabox_supplier.php:44
+msgid "Homepage URL"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://www.oimwc.com"
+msgstr ""
+
+#: classes/class.im_main.php:998
+msgid "ID"
+msgstr ""
+
+#: templates/variable_supplier.php:237 templates/variable_supplier.php:333
+#: templates/product_supplier.php:252 templates/product_supplier.php:342
+msgid ""
+"If the supplier has a direct URL to the product on their homepage, enter it "
+"here."
+msgstr ""
+
+#: templates/supplier_email.php:9
+msgid "If you have any questions, please let us know."
+msgstr ""
+
+#: templates/oimwc_settings.php:652
+msgid ""
+"If you use custom order statuses that reduce physical stock, enter them here."
+"<br/> Typical order statuses that don't reduce physical stock are processing,"
+" pending and canceled, etc."
+msgstr ""
+
+#: templates/oimwc_settings.php:624
+msgid ""
+"If you use custom order statuses that reserve products, enter them here.<br/>"
+" This is used to calculate the correct physical order stock qty. Typical "
+"order statuses that don't reserve products are completed, refunded and "
+"failed."
+msgstr ""
+
+#: templates/oimwc_settings.php:420
+msgid ""
+"If you use different pack sizes on your products then we highly recommend "
+"you turn this option on!<br/>Are you only using one type of pack size on all "
+"your products then this option can be turned off."
+msgstr ""
+
+#: templates/display_product_stock.php:87
+msgid "Import"
+msgstr ""
+
+#: templates/shop_order_filter.php:5
+msgid "In stock"
+msgstr ""
+
+#: templates/shop_order_filter.php:7
+msgid "In stock + Unmanaged stock"
+msgstr ""
+
+#: templates/variable_supplier.php:248 templates/variable_supplier.php:344
+#: templates/product_supplier.php:262 templates/product_supplier.php:354
+msgid ""
+"In this field, you enter special characteristics about the product. It can "
+"be something the supplier Product ID does not inform the supplier of, ex. a "
+"special color or a unique packing of the product."
+msgstr ""
+
+#: classes/class.stock_status.php:491
+msgid "Incorrect product data"
+msgstr ""
+
+#: classes/class.im_main.php:556 classes/class.im_main.php:557
+msgid "Inventory overview"
+msgstr ""
+
+#: classes/class.im_main.php:605 classes/class.im_main.php:606
+#: templates/stock_values.php:12
+msgid "Inventory Stock Values"
+msgstr ""
+
+#: classes/class.order.php:1578 classes/class.order.php:2482
+#: templates/download_po_pdf.php:231
+msgid "ITEM CODE"
+msgstr ""
+
+#: classes/class.order.php:1554 classes/class.order.php:2470
+#: templates/download_po_pdf.php:219
+msgid "ITEM IMAGE"
+msgstr ""
+
+#: classes/class.order.php:1562 classes/class.order.php:2474
+#: templates/download_po_pdf.php:223
+msgid "ITEM NAME"
+msgstr ""
+
+#: classes/class.order.php:1602 classes/class.order.php:2494
+#: templates/download_po_pdf.php:243
+msgid "ITEM PRICE"
+msgstr ""
+
+#: classes/class.order.php:1570 classes/class.order.php:2478
+#: templates/download_po_pdf.php:227
+msgid "ITEM URL"
+msgstr ""
+
+#: classes/class.order.php:1968 classes/class.order.php:2611
+#: templates/download_po_pdf.php:341
+msgid "Item Url"
+msgstr ""
+
+#: js-templates/awaiting_delivery_tbl_tmpl.php:35
+#: js-templates/view_po_tmpl.php:35
+#: js-templates/lowstock_supplier_filter_tmpl.php:52
+#: classes/class.data_low_stock.php:532 classes/class.order.php:795
+#: classes/class.data_delivery_table.php:413
+#: classes/class.view_order_product_list.php:355
+#: classes/class.data_purchase_order.php:482
+msgid "Items in stock"
+msgstr ""
+
+#: classes/class.data_low_stock.php:360 classes/class.order.php:774
+#: classes/class.stock_status.php:412 classes/class.stock_status.php:480
+#: classes/class.data_delivery_table.php:264
+#: classes/class.view_order_product_list.php:227
+#: classes/class.data_purchase_order.php:310
+msgid "Link to product"
+msgstr ""
+
+#: classes/class.im_main.php:1165 classes/class.im_main.php:1436
+#: templates/order_files_list.php:257
+msgid "Lock Order And Change Status to Ordered"
+msgstr ""
+
+#: classes/class.im_main.php:850
+msgid "Locked"
+msgstr ""
+
+#: js-templates/lowstock_supplier_filter_tmpl.php:26
+#: classes/class.data_low_stock.php:482 classes/class.order.php:769
+#: classes/class.data_purchase_order.php:432
+#: templates/variable_supplier.php:125 templates/product_supplier.php:111
+msgid "Low stock threshold"
+msgstr ""
+
+#: templates/metabox_supplier.php:134
+msgid "Low Stock Threshold Level"
+msgstr ""
+
+#. Description of the plugin
+msgid "Manage inventory stock levels and product purchases for WooCommerce."
+msgstr ""
+
+#: templates/info_modal.php:24
+msgid "Manage Purchase Order Information"
+msgstr ""
+
+#: classes/class.im_main.php:1222
+msgid "Manage stock - No"
+msgstr ""
+
+#: classes/class.im_main.php:1219
+msgid "Manage stock - Yes"
+msgstr ""
+
+#: templates/info_modal.php:167
+msgid "Message"
+msgstr ""
+
+#: classes/class.im_main.php:2949 classes/class.im_main.php:2957
+#: classes/class.im_main.php:3103 classes/class.im_main.php:3112
+msgid "missing"
+msgstr ""
+
+#: templates/oimwc_settings.php:567
+msgid "Month/s"
+msgstr ""
+
+#: classes/class.stock_status.php:379
+msgid ""
+"More than 10 errors were found.\n"
+"To see all errors, download the complete list."
+msgstr ""
+
+#: classes/class.data_low_stock.php:388
+#: classes/class.data_purchase_order.php:338
+msgid "Multiple Supplier"
+msgstr ""
+
+#: classes/class.im_main.php:927
+msgid "New supplier"
+msgstr ""
+
+#: classes/class.im_main.php:1181
+msgid "No available open orders to add products to."
+msgstr ""
+
+#: templates/order_files_list.php:197
+msgid "No current purchase order files."
+msgstr ""
+
+#: js-templates/awaiting_delivery_tbl_tmpl.php:55
+#: js-templates/view_po_tmpl.php:52 classes/class.data_delivery_table.php:353
+#: classes/class.view_order_product_list.php:331
+msgid "No further qty of this product will arrive in this shipment"
+msgstr ""
+
+#: templates/display_product_stock.php:93
+msgid "No history found"
+msgstr ""
+
+#: classes/class.order_status_list.php:234
+msgid "No orders avaliable."
+msgstr ""
+
+#: classes/class.order.php:828 classes/class.order.php:907
+msgid "No product has this ID, please check and try again."
+msgstr ""
+
+#: classes/class.order.php:535
+msgid "No product is found!"
+msgstr ""
+
+#: classes/class.order.php:537 classes/class.order.php:647
+#: classes/class.order.php:658 classes/class.order.php:2719
+msgid "No products are found!"
+msgstr ""
+
+#: classes/class.im_main.php:1170
+msgid "No products found."
+msgstr ""
+
+#: classes/class.order.php:662
+msgid "No purchase order file was created!"
+msgstr ""
+
+#: classes/class.order.php:532
+msgid "No row is updated!"
+msgstr ""
+
+#: templates/inventory_management.php:99
+msgid "No Supplier"
+msgstr ""
+
+#: classes/class.im_main.php:1147 templates/oimwc_settings.php:774
+msgid "No users Found."
+msgstr ""
+
+#: templates/order_files_list.php:55
+msgid "No."
+msgstr ""
+
+#: classes/class.im_main.php:933
+msgid "Not found"
+msgstr ""
+
+#: classes/class.im_main.php:934
+msgid "Not found in Trash"
+msgstr ""
+
+#: classes/class.order.php:1342 classes/class.order.php:1586
+#: classes/class.order.php:2356 classes/class.order.php:2486
+#: templates/download_po_pdf.php:208 templates/download_po_pdf.php:235
+msgid "NOTES"
+msgstr ""
+
+#: templates/info_modal.php:39
+msgid "Notes"
+msgstr ""
+
+#: classes/class.im_main.php:1192
+msgid "Office Address"
+msgstr ""
+
+#: templates/variable_supplier.php:51
+msgid "OIMWC Settings"
+msgstr ""
+
+#: templates/product_supplier.php:407 templates/product_supplier.php:413
+msgid "Only saves OIMWC data and stock related data."
+msgstr ""
+
+#: classes/class.order.php:481 classes/class.order.php:551
+#: classes/class.order.php:575 classes/class.order.php:593
+#: classes/class.order.php:664 classes/class.order.php:667
+#: classes/class.order.php:684 classes/class.order.php:848
+msgid "Ops! Something is wrong. Please try again."
+msgstr ""
+
+#: classes/class.supplier.php:88 classes/class.im_main.php:546
+#: classes/class.im_main.php:547 templates/supplier_email.php:13
+msgid "Order & Inventory Manager"
+msgstr ""
+
+#: classes/class.im_main.php:2339
+msgid "Order & Inventory Manager - Update new database meta!"
+msgstr ""
+
+#. Name of the plugin
+msgid "Order and Inventory Manager for WooCommerce (Premium)"
+msgstr ""
+
+#: classes/class.im_main.php:1227
+msgid "Order has special product and product is available in physical stock"
+msgstr ""
+
+#: classes/class.order_status_list.php:312
+msgid "Order ID"
+msgstr ""
+
+#: classes/class.data_delivery_table.php:57
+#: classes/class.view_order_product_list.php:50
+msgid "Order Info"
+msgstr ""
+
+#: js-templates/awaiting_delivery_tbl_tmpl.php:41
+#: classes/class.data_delivery_table.php:422
+msgid "Order No."
+msgstr ""
+
+#: classes/class.im_main.php:592 classes/class.im_main.php:593
+#: classes/class.im_main.php:2467
+msgid "Order Overview"
+msgstr ""
+
+#: templates/oimwc_settings.php:41
+msgid "Order Status"
+msgstr ""
+
+#: classes/class.order.php:2035 classes/class.order.php:2652
+#: templates/download_po_pdf.php:453
+msgid "ORDER TOTAL"
+msgstr ""
+
+#: classes/class.data_delivery_table.php:242
+#: classes/class.data_delivery_table.php:424
+#: classes/class.view_order_product_list.php:204
+#: classes/class.view_order_product_list.php:381
+#: classes/class.view_order_product_list.php:385
+#, php-format
+msgid "Ordered: %d × %d-packs at %s %0.2f"
+msgstr ""
+
+#: templates/order_overview_filter.php:6
+msgid "Orders with all in stock"
+msgstr ""
+
+#: templates/order_overview_filter.php:10
+msgid "Orders with discontinued products"
+msgstr ""
+
+#: classes/class.im_main.php:1183
+msgid "Orders with problems"
+msgstr ""
+
+#: templates/discontinued_product_notice.php:2
+msgid "Orders with problems found."
+msgstr ""
+
+#: templates/order_overview_filter.php:8
+msgid "Orders with products that are out of stock"
+msgstr ""
+
+#: templates/shop_order_filter.php:8
+msgid "Out of stock"
+msgstr ""
+
+#: classes/class.im_main.php:3249 templates/oimwc_settings.php:38
+msgid "Pack Size"
+msgstr ""
+
+#: templates/info_modal.php:109
+msgid "PDF"
+msgstr ""
+
+#: classes/class.order.php:347 classes/class.im_main.php:3443
+#: templates/view_purchase_order.php:22 templates/view_purchase_order.php:48
+msgid "Pending"
+msgstr ""
+
+#: classes/class.order.php:1186 classes/class.order.php:1255
+#: classes/class.order.php:1298 classes/class.order.php:2202
+#: classes/class.order.php:2274 classes/class.order.php:2315
+#: templates/download_po_pdf.php:150 templates/download_po_pdf.php:176
+#: templates/download_po_pdf.php:186
+msgid "Phone No"
+msgstr ""
+
+#: classes/class.im_main.php:1184 templates/oimwc_settings.php:167
+#: templates/oimwc_settings.php:236 templates/oimwc_settings.php:323
+#: templates/oimwc_settings.php:381
+msgid "Phone Number"
+msgstr ""
+
+#: templates/metabox_supplier.php:110
+msgid "Phone number"
+msgstr ""
+
+#: classes/class.order_status_list.php:224 classes/class.stock_status.php:365
+#: classes/class.stock_status.php:409 classes/class.stock_status.php:471
+#: templates/variable_supplier.php:145 templates/product_supplier.php:133
+msgid "Physical stock Qty"
+msgstr ""
+
+#: classes/class.product_stock.php:168 templates/display_product_stock.php:65
+#, php-format
+msgid "Physical stock: %d → %d. Changed by %s."
+msgstr ""
+
+#: classes/class.product_stock.php:151 templates/display_product_stock.php:48
+#, php-format
+msgid "Physical stock: %d → %d. Order #%d was completed."
+msgstr ""
+
+#: classes/class.product_stock.php:171 templates/display_product_stock.php:68
+#, php-format
+msgid "Physical stock: %d → %d. Pack size: %d → %d. Changed by %s."
+msgstr ""
+
+#: js-templates/awaiting_delivery_tbl_tmpl.php:36
+#: js-templates/view_po_tmpl.php:36
+#: js-templates/lowstock_supplier_filter_tmpl.php:53
+#: classes/class.data_low_stock.php:533 classes/class.order.php:795
+#: classes/class.stock_status.php:366 classes/class.stock_status.php:410
+#: classes/class.stock_status.php:474 classes/class.data_delivery_table.php:415
+#: classes/class.view_order_product_list.php:355
+#: classes/class.data_purchase_order.php:483 templates/variable_supplier.php:99
+#: templates/product_supplier.php:145
+msgid "Physical units in stock"
+msgstr ""
+
+#: templates/oimwc_settings.php:529
+msgid "piece"
+msgstr ""
+
+#: templates/oimwc_settings.php:532
+msgid "pieces"
+msgstr ""
+
+#: classes/class.supplier.php:170 classes/class.supplier.php:259
+#: classes/class.im_main.php:1134
+msgid "Please enable 'Stock management' to unlock the fields."
+msgstr ""
+
+#: classes/class.im_main.php:1186
+msgid "Please enter 3 or more characters"
+msgstr ""
+
+#: classes/class.order.php:690 classes/class.order.php:854
+msgid "Please enter product ID."
+msgstr ""
+
+#: classes/class.order.php:855
+msgid "Please enter product qty"
+msgstr ""
+
+#: classes/class.im_main.php:1168
+msgid "Please enter valid qty."
+msgstr ""
+
+#: classes/class.im_main.php:1167
+msgid "Please enter value."
+msgstr ""
+
+#: classes/class.im_main.php:1172
+msgid "Please select a supplier to enable the Add to List feature"
+msgstr ""
+
+#: classes/class.data_low_stock.php:460
+#: classes/class.data_purchase_order.php:410 classes/class.im_main.php:1171
+msgid "Please select a supplier to enable the Create Purchase Order feature"
+msgstr ""
+
+#: classes/class.im_main.php:1203
+msgid "Please select a supplier to enable the Search feature"
+msgstr ""
+
+#: classes/class.im_main.php:1146
+msgid "Please select any user"
+msgstr ""
+
+#: classes/class.im_main.php:1169
+msgid "Please select order from list"
+msgstr ""
+
+#: classes/class.im_main.php:1199
+msgid ""
+"Please uncheck show all product checkbox to enable the Add to List feature"
+msgstr ""
+
+#: templates/oimwc_settings.php:525
+msgid "Plural"
+msgstr ""
+
+#: js-templates/awaiting_delivery_tbl_tmpl.php:46
+#: classes/class.data_delivery_table.php:427
+#: templates/view_purchase_order.php:38
+msgid "PO date"
+msgstr ""
+
+#: classes/class.order.php:1228 classes/class.order.php:2252
+#: templates/download_po_pdf.php:159
+msgid "PO No"
+msgstr ""
+
+#: classes/class.im_main.php:920
+msgctxt "Post type general name"
+msgid "Suppliers"
+msgstr ""
+
+#: classes/class.im_main.php:921
+msgctxt "Post type singular name"
+msgid "Supplier"
+msgstr ""
+
+#: templates/product_supplier.php:186
+msgid "Preset"
+msgstr ""
+
+#: classes/class.im_main.php:679
+msgid "Pricing"
+msgstr ""
+
+#: classes/class.im_main.php:1490 templates/info_modal.php:2
+#: templates/order_files_list.php:237
+msgid "Private Notes"
+msgstr ""
+
+#: classes/class.data_delivery_table.php:58
+#: classes/class.view_order_product_list.php:54
+msgid "Process product"
+msgstr ""
+
+#: templates/order_files_list.php:239
+msgid "Process Purchase Order"
+msgstr ""
+
+#: js-templates/awaiting_delivery_tbl_tmpl.php:19
+#: js-templates/view_po_tmpl.php:19
+#: js-templates/lowstock_supplier_filter_tmpl.php:25
+#: classes/class.data_low_stock.php:480 classes/class.order.php:769
+#: classes/class.data_delivery_table.php:366
+#: classes/class.view_order_product_list.php:341
+#: classes/class.data_purchase_order.php:430 templates/info_modal.php:37
+msgid "Product ID"
+msgstr ""
+
+#: templates/info_modal.php:29
+msgid "Product Image"
+msgstr ""
+
+#: classes/class.data_low_stock.php:51 classes/class.data_delivery_table.php:54
+#: classes/class.view_order_product_list.php:47
+#: classes/class.data_purchase_order.php:51
+msgid "Product Info"
+msgstr ""
+
+#: classes/class.im_main.php:3767
+msgid "Product Name"
+msgstr ""
+
+#: classes/class.im_main.php:1176 templates/variable_supplier.php:246
+#: templates/variable_supplier.php:342 templates/product_supplier.php:259
+#: templates/product_supplier.php:351
+msgid "Product Notes to Supplier"
+msgstr ""
+
+#: templates/info_modal.php:43
+msgid "Product Price"
+msgstr ""
+
+#: classes/class.data_low_stock.php:53 classes/class.data_delivery_table.php:56
+#: classes/class.view_order_product_list.php:49
+#: classes/class.data_purchase_order.php:53
+msgid "Product Price & Stock"
+msgstr ""
+
+#: classes/class.stock_status.php:363 classes/class.stock_status.php:407
+#: classes/class.stock_status.php:465 classes/class.im_main.php:3773
+#: templates/inventory_management.php:144 templates/view_purchase_order.php:57
+msgid "Product SKU"
+msgstr ""
+
+#: templates/display_product_stock.php:3
+msgid "Product Stock History"
+msgstr ""
+
+#: classes/class.stock_status.php:405 classes/class.stock_status.php:459
+msgid "Product Title"
+msgstr ""
+
+#: templates/variable_supplier.php:113 templates/product_supplier.php:173
+msgid "Product unit"
+msgstr ""
+
+#: templates/info_modal.php:35
+msgid "Product URL"
+msgstr ""
+
+#: classes/class.stock_status.php:406 classes/class.stock_status.php:462
+msgid "Product Variation"
+msgstr ""
+
+#: classes/class.data_low_stock.php:50 classes/class.data_delivery_table.php:53
+#: classes/class.view_order_product_list.php:46
+#: classes/class.data_purchase_order.php:50 classes/class.im_main.php:1202
+#: templates/inventory_management.php:215
+#: templates/inventory_management.php:222 templates/oimwc_settings.php:40
+#: templates/order_files_list.php:73
+msgid "Products"
+msgstr ""
+
+#: templates/navigation.php:41
+msgid "Products awaiting delivery"
+msgstr ""
+
+#: classes/class.im_main.php:1225
+msgid "Products in stock with special product"
+msgstr ""
+
+#: classes/class.im_main.php:1226
+msgid "Products out of stock with special product"
+msgstr ""
+
+#: templates/navigation.php:40
+msgid "Products with low stock"
+msgstr ""
+
+#: classes/class.im_main.php:1182
+msgid "Products with mismatching data"
+msgstr ""
+
+#: classes/class.stock_status.php:315
+msgid "Products with mismatching stock values detected:"
+msgstr ""
+
+#: classes/class.order.php:1226 classes/class.order.php:2249
+#: templates/download_po_pdf.php:158
+msgid "Purchase Order"
+msgstr ""
+
+#: templates/oimwc_settings.php:51
+msgid "Purchase Order File Format"
+msgstr ""
+
+#: classes/class.order.php:650 classes/class.order.php:652
+#, php-format
+msgid "Purchase order file generated for %d product!"
+msgstr ""
+
+#: classes/class.order.php:646
+msgid "Purchase order file generated successfully!"
+msgstr ""
+
+#: classes/class.im_main.php:1446 templates/order_files_list.php:155
+#: templates/view_purchase_order.php:106
+msgid "Purchase Order PO from Order & inventory Manager"
+msgstr ""
+
+#: templates/inventory_management.php:205
+#: templates/inventory_management.php:210
+msgid "Purchase Order Preview"
+msgstr ""
+
+#: classes/class.im_main.php:571 classes/class.im_main.php:572
+#: templates/oimwc_settings.php:36
+msgid "Purchase Orders"
+msgstr ""
+
+#: js-templates/lowstock_supplier_filter_tmpl.php:41
+#: classes/class.data_low_stock.php:510 classes/class.order.php:782
+#: classes/class.data_purchase_order.php:460 classes/class.im_main.php:1177
+#: templates/variable_supplier.php:257 templates/variable_supplier.php:353
+#: templates/product_supplier.php:268 templates/product_supplier.php:362
+#: templates/view_purchase_order.php:42
+msgid "Purchase price"
+msgstr ""
+
+#: classes/class.order.php:1594 classes/class.order.php:2490
+#: templates/download_po_pdf.php:239
+msgid "QTY"
+msgstr ""
+
+#: js-templates/awaiting_delivery_tbl_tmpl.php:52
+#: js-templates/view_po_tmpl.php:49 classes/class.data_low_stock.php:54
+#: classes/class.data_delivery_table.php:350
+#: classes/class.view_order_product_list.php:328
+#: classes/class.data_purchase_order.php:54 templates/info_modal.php:41
+#: templates/view_purchase_order.php:58
+msgid "Qty"
+msgstr ""
+
+#: classes/class.im_main.php:1223
+msgid "Ready to process"
+msgstr ""
+
+#: classes/class.im_main.php:1151 templates/oimwc_settings.php:281
+#: templates/oimwc_settings.php:340
+msgid "Receiver"
+msgstr ""
+
+#: classes/class.order.php:515 classes/class.order.php:2721
+#: classes/class.im_main.php:849 classes/class.im_main.php:1422
+#: classes/class.im_main.php:3436 templates/order_files_list.php:246
+#: templates/view_purchase_order.php:25
+msgid "Receiving"
+msgstr ""
+
+#: templates/oimwc_settings.php:110
+msgid "Registered Office Address"
+msgstr ""
+
+#: js-templates/awaiting_delivery_tbl_tmpl.php:56
+#: js-templates/view_po_tmpl.php:54
+#: js-templates/lowstock_supplier_filter_tmpl.php:73
+#: js-templates/lowstock_supplier_filter_tmpl.php:75
+#: classes/class.data_delivery_table.php:356
+#: classes/class.view_order_product_list.php:335 classes/class.im_main.php:1173
+#: templates/variable_supplier.php:211 templates/variable_supplier.php:307
+#: templates/product_supplier.php:229 templates/product_supplier.php:316
+msgid "Remove"
+msgstr ""
+
+#: js-templates/awaiting_delivery_tbl_tmpl.php:56
+#: js-templates/view_po_tmpl.php:54 classes/class.data_delivery_table.php:356
+#: classes/class.view_order_product_list.php:335
+msgid "Remove product from purchase order"
+msgstr ""
+
+#: templates/oimwc_settings.php:779
+msgid "Remove Selected User"
+msgstr ""
+
+#: templates/info_modal.php:154
+msgid "Reply to"
+msgstr ""
+
+#: classes/class.order.php:1322 classes/class.order.php:2336
+#: templates/download_po_pdf.php:195
+msgid "REQUESTED BY"
+msgstr ""
+
+#: classes/class.im_main.php:1128 templates/oimwc_settings.php:787
+msgid "Save"
+msgstr ""
+
+#: templates/info_modal.php:135
+msgid "Save Default Value"
+msgstr ""
+
+#: js-templates/additional_supplier_tmpl.php:35
+#: templates/variable_supplier.php:281 templates/variable_supplier.php:376
+#: templates/product_supplier.php:290 templates/product_supplier.php:387
+msgid "Save supplier info"
+msgstr ""
+
+#: templates/info_modal.php:137
+msgid "Save this as default value for this supplier"
+msgstr ""
+
+#: templates/oimwc_settings.php:559
+msgid "Save units"
+msgstr ""
+
+#: classes/class.im_main.php:2256
+msgid "Saved"
+msgstr ""
+
+#: templates/inventory_management.php:115
+#: templates/inventory_management.php:117
+msgid "Search"
+msgstr ""
+
+#: classes/class.im_main.php:1229
+msgid "Search Order:"
+msgstr ""
+
+#: classes/class.im_main.php:932
+msgid "Search supplier"
+msgstr ""
+
+#: classes/class.im_main.php:1149
+msgid "Search supplier..."
+msgstr ""
+
+#: templates/oimwc_settings.php:758 modules/wp-search/wp-search.php:46
+msgid "Search..."
+msgstr ""
+
+#: templates/oimwc_settings.php:43
+msgid "Security"
+msgstr ""
+
+#: classes/class.im_main.php:1201 templates/inventory_management.php:219
+msgid "Select a supplier to show products that have a low stock quantity."
+msgstr ""
+
+#: classes/class.im_main.php:1159 templates/oimwc_settings.php:156
+#: templates/oimwc_settings.php:226 templates/oimwc_settings.php:312
+#: templates/oimwc_settings.php:371 templates/metabox_supplier.php:32
+msgid "Select country"
+msgstr ""
+
+#: templates/info_modal.php:71
+msgid "Select Office Address"
+msgstr ""
+
+#: templates/inventory_management.php:166
+msgid "Select Order"
+msgstr ""
+
+#: js-templates/add_product_existing_PO_tmpl.php:4
+#: templates/inventory_management.php:170
+msgid "Select order to add the product"
+msgstr ""
+
+#: classes/class.supplier.php:1034 classes/class.im_main.php:1185
+#: templates/variable_supplier.php:87 templates/product_supplier.php:74
+msgid "Select Product"
+msgstr ""
+
+#: templates/info_modal.php:88
+msgid "Select Shipping Address"
+msgstr ""
+
+#: classes/class.im_main.php:776
+msgid "Select supplier"
+msgstr ""
+
+#: classes/class.im_main.php:1915
+msgid "Select variant to show pack-size"
+msgstr ""
+
+#: templates/stock_values.php:26
+msgid "Select year"
+msgstr ""
+
+#: templates/variable_supplier.php:90 templates/product_supplier.php:77
+msgid ""
+"Selected product will be presented as a replacement product on the product "
+"page."
+msgstr ""
+
+#: classes/class.im_main.php:1187
+msgid "Send"
+msgstr ""
+
+#: templates/info_modal.php:145
+msgid "Send Purchase Order"
+msgstr ""
+
+#: classes/class.im_main.php:613 classes/class.im_main.php:614
+#: templates/oimwc_settings.php:35
+msgid "Settings"
+msgstr ""
+
+#: templates/oimwc_settings.php:262
+msgid "Shipping address"
+msgstr ""
+
+#: classes/class.order.php:1333 classes/class.order.php:2346
+#: templates/download_po_pdf.php:197
+msgid "SHIPPING METHOD"
+msgstr ""
+
+#: templates/info_modal.php:125
+msgid "Shipping Method"
+msgstr ""
+
+#: classes/class.order.php:1328 classes/class.order.php:2341
+#: templates/download_po_pdf.php:196
+msgid "SHIPPING TERMS"
+msgstr ""
+
+#: templates/info_modal.php:120
+msgid "Shipping Terms"
+msgstr ""
+
+#: templates/oimwc_settings.php:394
+msgid "Shop default pack size"
+msgstr ""
+
+#: js-templates/awaiting_delivery_tbl_tmpl.php:34
+#: js-templates/view_po_tmpl.php:34
+#: js-templates/lowstock_supplier_filter_tmpl.php:51
+#: classes/class.data_low_stock.php:525 classes/class.order.php:791
+#: classes/class.stock_status.php:367 classes/class.stock_status.php:411
+#: classes/class.stock_status.php:477 classes/class.data_delivery_table.php:399
+#: classes/class.view_order_product_list.php:355
+#: classes/class.data_purchase_order.php:475
+#: templates/variable_supplier.php:158 templates/product_supplier.php:156
+msgid "Shop pack size"
+msgstr ""
+
+#: classes/class.product_stock.php:180 templates/display_product_stock.php:77
+#, php-format
+msgid "Shop pack size: %d → %d. Changed by %s."
+msgstr ""
+
+#: js-templates/awaiting_delivery_tbl_tmpl.php:32
+#: js-templates/view_po_tmpl.php:32
+#: js-templates/lowstock_supplier_filter_tmpl.php:49
+#: classes/class.data_low_stock.php:531 classes/class.order.php:795
+#: classes/class.data_delivery_table.php:410
+#: classes/class.view_order_product_list.php:355
+#: classes/class.data_purchase_order.php:481
+msgid "Shop price"
+msgstr ""
+
+#: templates/info_modal.php:31
+msgid "Shop Product Name"
+msgstr ""
+
+#: templates/info_modal.php:33
+msgid "Shop Variant Name"
+msgstr ""
+
+#: templates/product_supplier.php:186
+msgid "Show"
+msgstr ""
+
+#: templates/inventory_management.php:150
+msgid "Show all products"
+msgstr ""
+
+#: templates/oimwc_settings.php:574
+msgid "Show estimated arrival status"
+msgstr ""
+
+#: templates/oimwc_settings.php:469
+msgid "Show GTIN number on the product page."
+msgstr ""
+
+#: templates/oimwc_settings.php:437
+msgid "Show pack size in printouts"
+msgstr ""
+
+#: templates/oimwc_settings.php:412
+msgid "Show pack size info on product page"
+msgstr ""
+
+#: templates/oimwc_settings.php:524
+msgid "Singular"
+msgstr ""
+
+#: templates/metabox_supplier.php:102
+msgid "Skype name"
+msgstr ""
+
+#: classes/class.im_main.php:1722 classes/class.im_main.php:1830
+#: classes/class.im_main.php:1920
+#, php-format
+msgid "Sold in pack of %d %s"
+msgstr ""
+
+#: classes/class.im_main.php:1720 classes/class.im_main.php:1725
+#: classes/class.im_main.php:1828 classes/class.im_main.php:1917
+#, php-format
+msgid "Sold per %s"
+msgstr ""
+
+#: classes/class.im_main.php:2260
+msgid "Something went wrong! Try again!"
+msgstr ""
+
+#: classes/class.im_main.php:3876
+msgid "Something went wrong. Please try again later."
+msgstr ""
+
+#: templates/notice_for_product_stock.php:4
+msgid "Start update"
+msgstr ""
+
+#: classes/class.im_main.php:1156 templates/oimwc_settings.php:145
+#: templates/oimwc_settings.php:215 templates/oimwc_settings.php:301
+#: templates/oimwc_settings.php:360
+msgid "State / Province / Region"
+msgstr ""
+
+#: templates/order_files_list.php:90 templates/view_purchase_order.php:45
+msgid "Status"
+msgstr ""
+
+#: classes/class.im_main.php:1220
+msgid "Status - In stock"
+msgstr ""
+
+#: classes/class.im_main.php:1221
+msgid "Status - Out of stock"
+msgstr ""
+
+#: classes/class.product_stock.php:192
+msgid "Stock history log"
+msgstr ""
+
+#: classes/class.product_stock.php:186 templates/display_product_stock.php:83
+msgid "Stock is %d."
+msgstr ""
+
+#: templates/oimwc_settings.php:565
+msgid "Stock log limitation"
+msgstr ""
+
+#: classes/class.stock_status.php:364 classes/class.stock_status.php:408
+#: classes/class.stock_status.php:468
+msgid "Stock quantity"
+msgstr ""
+
+#: classes/class.order.php:530
+msgid "Stock updated successfully!"
+msgstr ""
+
+#: classes/class.im_main.php:1193
+msgid "Street"
+msgstr ""
+
+#: templates/order_files_list.php:78
+msgid "Subtotal"
+msgstr ""
+
+#: classes/class.order.php:1246 classes/class.order.php:2261
+#: templates/download_po_pdf.php:167
+msgid "SUPPLIER"
+msgstr ""
+
+#: js-templates/lowstock_supplier_filter_tmpl.php:31
+#: classes/class.data_low_stock.php:506 classes/class.order.php:782
+#: classes/class.data_purchase_order.php:456 classes/class.im_main.php:923
+#: classes/class.im_main.php:937 classes/class.im_main.php:1006
+#: templates/oimwc_settings.php:39 templates/order_files_list.php:61
+#: templates/variable_supplier.php:196 templates/product_supplier.php:213
+msgid "Supplier"
+msgstr ""
+
+#: templates/oimwc_settings.php:402
+msgid "Supplier default pack size"
+msgstr ""
+
+#: classes/class.im_main.php:1062
+msgid "Supplier details"
+msgstr ""
+
+#: classes/class.data_low_stock.php:52 classes/class.data_delivery_table.php:55
+#: classes/class.view_order_product_list.php:48
+#: classes/class.data_purchase_order.php:52 templates/variable_supplier.php:190
+#: templates/product_supplier.php:207
+msgid "Supplier Info"
+msgstr ""
+
+#: classes/class.im_main.php:999 templates/view_purchase_order.php:34
+msgid "Supplier Name"
+msgstr ""
+
+#: js-templates/awaiting_delivery_tbl_tmpl.php:27
+#: js-templates/view_po_tmpl.php:27
+#: js-templates/lowstock_supplier_filter_tmpl.php:44
+#: classes/class.data_low_stock.php:501 classes/class.order.php:778
+#: classes/class.data_delivery_table.php:375
+#: classes/class.view_order_product_list.php:347
+#: classes/class.data_purchase_order.php:451 classes/class.im_main.php:1178
+#: templates/variable_supplier.php:269 templates/variable_supplier.php:365
+#: templates/product_supplier.php:278 templates/product_supplier.php:374
+msgid "Supplier pack size"
+msgstr ""
+
+#: classes/class.im_main.php:1175 templates/variable_supplier.php:233
+#: templates/variable_supplier.php:329 templates/product_supplier.php:247
+#: templates/product_supplier.php:337
+msgid "Supplier Prod. URL"
+msgstr ""
+
+#: classes/class.im_main.php:1174 classes/class.im_main.php:2974
+#: classes/class.im_main.php:3127 templates/variable_supplier.php:221
+#: templates/variable_supplier.php:317 templates/product_supplier.php:237
+#: templates/product_supplier.php:325
+msgid "Supplier Product ID"
+msgstr ""
+
+#: classes/class.im_main.php:2981 classes/class.im_main.php:3134
+msgid "Supplier URL"
+msgstr ""
+
+#: classes/class.im_main.php:579 classes/class.im_main.php:580
+#: classes/class.im_main.php:922 classes/class.im_main.php:924
+msgid "Suppliers"
+msgstr ""
+
+#: classes/class.order.php:1202 classes/class.order.php:2237
+#: classes/class.im_main.php:1197 templates/oimwc_settings.php:175
+#: templates/oimwc_settings.php:244 templates/download_po_pdf.php:154
+msgid "Tax registration nr. / VAT"
+msgstr ""
+
+#: templates/metabox_supplier.php:118
+msgid "Tax/VAT Number"
+msgstr ""
+
+#: templates/supplier_email.php:11
+msgid "Thanks"
+msgstr ""
+
+#: classes/class.im_main.php:2688
+msgid "The order has all the products in stock!"
+msgstr ""
+
+#: classes/class.im_main.php:3873
+msgid "The order was sent successfully."
+msgstr ""
+
+#: classes/class.order.php:571
+msgid "The product is added to order file successfully."
+msgstr ""
+
+#: templates/notice_for_product_packsize.php:1
+msgid ""
+"The product is included in an active order. Changing pack size will also "
+"affect all active orders with this product included in it."
+msgstr ""
+
+#: classes/class.order.php:949
+msgid "The product successfully added to order!"
+msgstr ""
+
+#: classes/class.im_main.php:1180
+msgid ""
+"The value is locked because the stock changed elsewhere. Undo the changes, "
+"update the product, or reload the page to unlock the field."
+msgstr ""
+
+#: classes/class.im_main.php:1166
+msgid "There is no pending order from this supplier."
+msgstr ""
+
+#: templates/product_supplier.php:13
+msgid ""
+"This information is used for single type product or default values for the "
+"variations in variable products."
+msgstr ""
+
+#: templates/oimwc_settings.php:398 templates/variable_supplier.php:163
+#: templates/product_supplier.php:161
+msgid ""
+"This is how many units of a product you sell to your customers when they buy "
+"\"1\" item.<br/>If your default pack size is 2, then enter the value \"2\"."
+msgstr ""
+
+#: templates/oimwc_settings.php:581
+msgid "This option shows the estimated arrival date status on product page."
+msgstr ""
+
+#: templates/oimwc_settings.php:444
+msgid ""
+"This options add the product pack size to common printouts such as invoices "
+"and recites."
+msgstr ""
+
+#: classes/class.im_main.php:2697
+msgid "This order contain a product that has stock management turned off"
+msgstr ""
+
+#: classes/class.im_main.php:1224 classes/class.im_main.php:2693
+msgid "This order has one or more products out of stock."
+msgstr ""
+
+#: classes/class.im_main.php:1740 classes/class.im_main.php:1847
+#, php-format
+msgid "This product has been discontinued and is replaced by %s."
+msgstr ""
+
+#: classes/class.im_main.php:1742 classes/class.im_main.php:1849
+msgid "This product has been discontinued."
+msgstr ""
+
+#: classes/class.order.php:701 classes/class.order.php:821
+msgid "This product is already added!"
+msgstr ""
+
+#: classes/class.order.php:867
+msgid "This product is already in the order!"
+msgstr ""
+
+#: classes/class.order.php:824
+msgid ""
+"This product is not from selected supplier. Please select supplier of this "
+"product and then add this product!"
+msgstr ""
+
+#: classes/class.order.php:903
+msgid ""
+"This product is not from the current supplier. Please enter product ID of "
+"this supplier!"
+msgstr ""
+
+#: classes/class.im_main.php:1747 classes/class.im_main.php:1854
+#, php-format
+msgid "This product will be discontinued and be replaced by %s."
+msgstr ""
+
+#: classes/class.im_main.php:1749 classes/class.im_main.php:1856
+msgid "This product will be discontinued."
+msgstr ""
+
+#: templates/oimwc_settings.php:407 templates/variable_supplier.php:275
+#: templates/variable_supplier.php:370 templates/product_supplier.php:284
+#: templates/product_supplier.php:379
+msgid ""
+"This sets the default value of your suppliers pack size. <br/>If most of "
+"your products come in 2-pack, enter the value \"2\"."
+msgstr ""
+
+#: templates/oimwc_settings.php:568
+msgid "This will be the defualt stock history limit for all products."
+msgstr ""
+
+#: templates/oimwc_settings.php:514
+msgid "This will be the defualt unit for all products."
+msgstr ""
+
+#: classes/class.im_main.php:824
+msgid "Threshold Level Reached"
+msgstr ""
+
+#: templates/info_modal.php:164
+msgid "Title"
+msgstr ""
+
+#: templates/info_modal.php:159
+msgid "To"
+msgstr ""
+
+#: classes/class.order.php:1608 classes/class.order.php:2496
+#: templates/download_po_pdf.php:244
+msgid "TOTAL"
+msgstr ""
+
+#: js-templates/awaiting_delivery_tbl_tmpl.php:45
+#: js-templates/view_po_tmpl.php:42 classes/class.data_low_stock.php:595
+#: classes/class.view_order_product_list.php:385
+#: classes/class.data_purchase_order.php:545
+msgid "Total"
+msgstr ""
+
+#: classes/class.order_status_list.php:222 classes/class.stock_status.php:364
+#: classes/class.stock_status.php:408 classes/class.stock_status.php:468
+msgid "Total Product Ordered"
+msgstr ""
+
+#: templates/oimwc_settings.php:432
+msgid ""
+"Turning on this option will hide the pack size information on all products "
+"that have pack size set to \"1\"."
+msgstr ""
+
+#: templates/variable_supplier.php:117 templates/product_supplier.php:177
+msgid ""
+"Unit type of your product. Ex a rope you might want to sell in meters "
+"instead of pieces :-)"
+msgstr ""
+
+#: templates/oimwc_settings.php:518
+msgid "Units"
+msgstr ""
+
+#: classes/class.product_stock.php:174 templates/display_product_stock.php:71
+#, php-format
+msgid "Units in stock: %d → %d. Changed by %s."
+msgstr ""
+
+#: classes/class.product_stock.php:177 templates/display_product_stock.php:74
+#, php-format
+msgid "Units in stock: %d → %d. Pack size: %d → %d. Changed by %s."
+msgstr ""
+
+#: classes/class.data_delivery_table.php:282
+#: classes/class.view_order_product_list.php:246
+#: classes/class.view_order_product_list.php:372
+msgid "Unknown"
+msgstr ""
+
+#: classes/class.im_main.php:1164 classes/class.im_main.php:1436
+#: templates/order_files_list.php:257
+msgid "Unlock Order And Change Status to Pending"
+msgstr ""
+
+#: templates/shop_order_filter.php:6
+msgid "Unmanaged stock"
+msgstr ""
+
+#: templates/product_supplier.php:405 templates/product_supplier.php:411
+msgid "Update"
+msgstr ""
+
+#: classes/class.im_main.php:2340
+msgid "Update meta"
+msgstr ""
+
+#: templates/inventory_management.php:153
+msgid "Update PO preview"
+msgstr ""
+
+#: js-templates/awaiting_delivery_tbl_tmpl.php:53
+#: js-templates/view_po_tmpl.php:50 classes/class.data_delivery_table.php:351
+#: classes/class.view_order_product_list.php:329
+msgid "Update stock with entered qty"
+msgstr ""
+
+#: js-templates/awaiting_delivery_tbl_tmpl.php:54
+#: js-templates/view_po_tmpl.php:51 classes/class.data_delivery_table.php:352
+#: classes/class.view_order_product_list.php:330
+msgid "Update stock with ordered qty"
+msgstr ""
+
+#: classes/class.im_main.php:929
+msgid "Update supplier"
+msgstr ""
+
+#: classes/class.im_main.php:1138
+msgid "UPGRADE NOW"
+msgstr ""
+
+#: classes/class.im_main.php:1136
+msgid "Upgrade OIMWC to Gold version or higher to unlock this feature."
+msgstr ""
+
+#: classes/class.im_main.php:1137
+msgid "Upgrade OIMWC to Platinum version to unlock this feature."
+msgstr ""
+
+#: classes/class.im_main.php:1135
+msgid "Upgrade OIMWC to Silver version or higher to unlock this feature."
+msgstr ""
+
+#: js-templates/awaiting_delivery_tbl_tmpl.php:24
+#: js-templates/view_po_tmpl.php:24
+#: js-templates/lowstock_supplier_filter_tmpl.php:38
+#: classes/class.data_low_stock.php:508 classes/class.order.php:782
+#: classes/class.data_delivery_table.php:386
+#: classes/class.view_order_product_list.php:347
+#: classes/class.data_purchase_order.php:458
+msgid "URL"
+msgstr ""
+
+#: templates/metabox_supplier.php:52
+msgid "URL for ordering"
+msgstr ""
+
+#: js-templates/awaiting_delivery_tbl_tmpl.php:18
+#: js-templates/view_po_tmpl.php:18
+#: js-templates/lowstock_supplier_filter_tmpl.php:24
+#: classes/class.data_low_stock.php:476 classes/class.order.php:768
+#: classes/class.order.php:1935 classes/class.order.php:1945
+#: classes/class.order.php:2583 classes/class.order.php:2598
+#: classes/class.data_delivery_table.php:361
+#: classes/class.view_order_product_list.php:340
+#: classes/class.data_purchase_order.php:426 classes/class.im_main.php:3770
+#: templates/download_po_pdf.php:323 templates/download_po_pdf.php:332
+msgid "Variant"
+msgstr ""
+
+#: templates/discontinued_product_notice.php:3
+msgid "View Orders"
+msgstr ""
+
+#: classes/class.im_main.php:3513
+msgid "View Product"
+msgstr ""
+
+#: classes/class.stock_status.php:316
+msgid "View Products"
+msgstr ""
+
+#: classes/class.im_main.php:930
+msgid "View supplier"
+msgstr ""
+
+#: classes/class.im_main.php:931
+msgid "View suppliers"
+msgstr ""
+
+#: templates/notice_for_product_stock.php:3
+msgid ""
+"We have made changes in data structure. So please click here to update the "
+"database."
+msgstr ""
+
+#: classes/class.order.php:1198 classes/class.order.php:2228
+#: classes/class.im_main.php:1196 templates/oimwc_settings.php:183
+#: templates/oimwc_settings.php:252 templates/download_po_pdf.php:153
+msgid "Website"
+msgstr ""
+
+#: classes/class.im_main.php:825
+msgid "With Low Stock"
+msgstr ""
+
+#: classes/class.order_status_list.php:223
+msgid "WooCommerce stock Qty"
+msgstr ""
+
+#: classes/class.product_stock.php:162 templates/display_product_stock.php:59
+#, php-format
+msgid "WooCommerce stock: %d → %d. Changed by %s."
+msgstr ""
+
+#: classes/class.product_stock.php:165 templates/display_product_stock.php:62
+#, php-format
+msgid "WooCommerce stock: %d → %d. Pack size: %d → %d. Changed by %s"
+msgstr ""
+
+#: classes/class.product_stock.php:183 templates/display_product_stock.php:80
+#, php-format
+msgid ""
+"WooCommerce stock: %d → %d. Products (%dx) from purchase order #%d were "
+"marked as arrived by %s."
+msgstr ""
+
+#. Author of the plugin
+msgid "WPHydraCode"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "www.wphydracode.com"
+msgstr ""
+
+#: templates/info_modal.php:105
+msgid "XLS"
+msgstr ""
+
+#: templates/oimwc_settings.php:705
+msgid ""
+"You can reorder post types in a list using mouse. You can make default post "
+"type by moving it to first."
+msgstr ""
+
+#: classes/class.im_main.php:1157 templates/oimwc_settings.php:149
+#: templates/oimwc_settings.php:219 templates/oimwc_settings.php:305
+#: templates/oimwc_settings.php:364
+msgid "Zip / Postal code"
+msgstr ""
